@@ -2,9 +2,9 @@
 
 /// DB연결 문자열 ///
 $servername = "localhost";//DB서버명
-$username = "root";//DB최고관리자권한
-$password = "";//root에는 비번이 없음
-$dbname = "mydb";//사용DB명
+$username = "youjlim";//DB최고관리자권한
+$password = "ghktjwlahd1!";//root에는 비번이 없음
+$dbname = "youjlim";//사용DB명
 
 /// DB서버와 연결하기 ///
 $conn = new mysqli(
